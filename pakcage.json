@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "forge build",
+    "deploy": "forge create --rpc-url https://rpc.testnet.taraxa.io --private-key <privkey> src/DemoTara.sol:DemoTara --legacy"
+  }
+}

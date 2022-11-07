@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/vargaelod/.nvm/versions/node/v16.10.0/bin/node /opt/homebrew/Cellar/yarn/1.22.19/libexec/bin/yarn.js init
+
+PATH: 
+  /Users/vargaelod/.pyenv/shims:/opt/homebrew/bin/python3/bin:/usr/local/bin/python/bin:/Users/vargaelod/bin:/Users/vargaelod/.nvm/versions/node/v16.10.0/bin:/opt/homebrew/bin/python3/bin:/usr/local/bin/python/bin:/Users/vargaelod/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/vargaelod/.cargo/bin:/Users/vargaelod/.go/bin:/Users/vargaelod/.go/bin:/Users/vargaelod/.foundry/bin:/Users/vargaelod/.foundry/bin:/Users/vargaelod/.foundry/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.10.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/opt/homebrew/Cellar/yarn/1.22.19/libexec/lib/cli.js:137150:13)
+      at Interface.emit (node:events:390:28)
+      at Interface._ttyWrite (node:readline:1081:16)
+      at ReadStream.onkeypress (node:readline:288:10)
+      at ReadStream.emit (node:events:390:28)
+      at emitKeys (node:internal/readline/utils:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:61:36)
+      at ReadStream.emit (node:events:390:28)
+      at addChunk (node:internal/streams/readable:315:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

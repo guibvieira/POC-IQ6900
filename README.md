@@ -24,7 +24,7 @@ Foundry is a powerful tool that simplifies the process of developing, testing, a
 
 Before you can start using Foundry, you need to install it on your system. Follow the instructions described in their [installation guide](https://book.getfoundry.sh/installation).
 
-If you have any doubts about the setup of a Foundry project, please visit the [official proejct layout page](https://book.getfoundry.sh/projects/project-layout).
+If you have any doubts about the setup of a Foundry project, please visit the [official project layout page](https://book.getfoundry.sh/projects/project-layout).
 
 ## Usage
 

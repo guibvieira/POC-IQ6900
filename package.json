@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "forge build",
+    "deploy": "forge create --rpc-url https://rpc.testnet.taraxa.io --private-key <privkey> src/DemoTara.sol:DemoTara --legacy",
+    "sample-call": "cast call 0xa74F1369E6fD8d21a898334102164ebc8775318d \"totalSupply()(uint256)\" --rpc-url https://rpc.testnet.taraxa.io --legacy",
+    "deploy-script": "forge script scripts/DeployDemoTara.s.sol:DeployDemoTara --rpc-url https://rpc.testnet.taraxa.io --legacy --broadcast"
+  }
+}

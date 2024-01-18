@@ -1,5 +1,7 @@
 # Foundry - Smart Contract Development and Lifecycle Management Tool
 
+Sample Repo found [here](https://github.com/Taraxa-project/foundry-example/tree/main).
+
 Welcome to Foundry, a comprehensive tool designed to streamline the development and management of smart contracts on the Taraxa platform. This README provides a detailed guide for new developers looking to utilize Foundry for their smart contract needs.
 
 ## Table of Contents

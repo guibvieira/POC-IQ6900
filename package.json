@@ -2,7 +2,7 @@
   "scripts": {
     "build": "forge build",
     "deploy": "forge create --rpc-url https://rpc.testnet.taraxa.io --private-key <privkey> src/DemoTara.sol:DemoTara --legacy",
-    "sample-call": "cast call 0x5bad32d16475edd250ac3AD4ce3686b92A2ED32d \"totalSupply()(uint256)\" --rpc-url https://rpc.testnet.taraxa.io --legacy",
+    "sample-call": "cast call 0x35F19411Dae371aB0e0D83eCB684E1D03973Ffd8 \"totalSupply()(uint256)\" --rpc-url https://rpc.testnet.taraxa.io --legacy",
     "deploy-script": "forge script scripts/DeployDemoTara.s.sol:DeployDemoTara --rpc-url https://rpc.testnet.taraxa.io --legacy --broadcast"
   }
 }

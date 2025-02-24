@@ -12,3 +12,7 @@ out
 node_modules
 cache
 .env
+
+# Ignore parquet files
+*.csv
+*.parquet
